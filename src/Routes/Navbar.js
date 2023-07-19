@@ -9,11 +9,11 @@ export default function NavBar() {
         <>
         <div>
             <input className='proj-btn' type='button'>
-                Projects
+                <a href='/projects'>Projects</a>  
             </input>
 
             <input className='contact-btn' type='button'>
-                Contact
+                <a href='/contact'></a>
             </input>
         </div>
         
