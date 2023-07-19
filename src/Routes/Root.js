@@ -1,6 +1,8 @@
 export default function Root() {
     return (
       <>
+      <NavBar />
+      <div className="Work under progress">This is a work in progress!</div>
         <div id="sidebar">
           <h1>React Router Contacts</h1>
           <div>
